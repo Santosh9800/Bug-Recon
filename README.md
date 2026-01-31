@@ -33,7 +33,7 @@ It helps in:
 ## 🚀 How To Use
 
 ```bash
-git clone https://github.com/USERNAME/bugrecon.git
-cd bugrecon
+https://github.com/Santosh9800/Bug-Recon.git
+cd Bug-Recon
 chmod +x bugrecon.sh
 ./bugrecon.sh
